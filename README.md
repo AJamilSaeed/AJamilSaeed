@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**AJamilSaeed/AJamilSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 🚀 Aspiring DevOps Engineer
+## 🚀 Aspiring DevOps Engineer
 
 Passionate about designing, automating, and improving modern IT infrastructure.
 
